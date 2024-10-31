@@ -5,7 +5,16 @@ This repository will contain my PyTorch learnings for Deep Learning with Datacam
 
 ### Tensors: the building blocks of netoworks in PyTorch
 
+- Load from list
 ``` python
 import torch
 lst = [ [1,2,3] , [4,5,6] ]
+tensor = torch.tensor(lst)
 ```
+
+- Loaf from NumPy array
+``` python
+np_array = np.array(array)
+np_tensor = torch.from_numpy(nop_array)
+```
+
