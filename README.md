@@ -18,3 +18,8 @@ np_array = np.array(array)
 np_tensor = torch.from_numpy(nop_array)
 ```
 
+## How to create the first neural network
+
+As redes neurais são entradas empilhadas, camadas ocultas e saídas.
+
+Começamos construindo uma rede básica de duas camadas, sem camadas ocultas.
