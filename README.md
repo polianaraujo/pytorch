@@ -5,7 +5,7 @@ This repository will contain my PyTorch learnings for Deep Learning with Datacam
 
 ### Tensors: the building blocks of netoworks in PyTorch
 
-```
+``` python
 import torch
 lst = [ [1,2,3] , [4,5,6] ]
 ```
